@@ -22,7 +22,7 @@ const shaders = {
   process: { vert: processVert, frag: emptyFrag },
   render: { vert: renderVert, frag: renderFrag },
 };
-
+  
 const defaultParams = {
   attractionStrength: 80,
   maxSpeed: 1200,
